@@ -1,4 +1,4 @@
-<img src="doc/header.png">
+<img src="https://raw.github.com/OpenP2PDesignOrg/FABMoney/master/doc/header.png">
 
 FABMoney
 ========
