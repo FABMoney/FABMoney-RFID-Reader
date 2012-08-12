@@ -1,0 +1,4 @@
+Welcome to FABMoney v.0.3
+Current time: 2012-07-23 23:01
+Ready to work
+...

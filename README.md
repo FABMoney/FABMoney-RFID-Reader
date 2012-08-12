@@ -1,3 +1,5 @@
+<img src="code/desktop_app/images/fabmoney-header.png">
+
 FABMoney
 ========
 
