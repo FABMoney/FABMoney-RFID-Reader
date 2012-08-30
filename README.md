@@ -2,14 +2,14 @@
 
 
 
-A digital currency for FabLabs: Open Source Software, Hardware, Data, Design.
------------------------------------------------------------------------------
+A digital currency for FabLabs: Open Source Software, Hardware, Data, API, Design.
+----------------------------------------------------------------------------------
 
+FABMoney is an open source digital currency for enabling collaboration in a FabLab. The project is completely open source: software, data, hardware, design. 
+More information coming soon also on [fabmoney.org](http://fabmoney.org).
 
-More information coming soon...
-
-
-[fabmoney.org](http://fabmoney.org)
+<img src="https://raw.github.com/OpenP2PDesignOrg/FABMoney/master/doc/picture03.jpeg">
+<img src="https://raw.github.com/OpenP2PDesignOrg/FABMoney/master/doc/picture02.jpeg">
 
 
 
